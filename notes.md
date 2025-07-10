@@ -15,3 +15,5 @@ https://play.google.com/store/apps/details?id=com.jrummy.liberty.toolbox
 https://github.com/nakixii/Magisk_AsoulOpt
 
 https://github.com/InsertX2k/multiuseruienabler
+
+https://github.com/fatalcoder524/KernelFlasher
